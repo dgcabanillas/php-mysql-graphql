@@ -1,0 +1,13 @@
+// Link de la lista de los videos
+Como crear una GraphQL API con PHP y MYSQL
+https://www.youtube.com/watch?v=ZgqxcTYAbg0&list=PLGIvoD9Ur9I3UHDmNN18CF9lVXjfpfq4J
+
+
+// Las dependencias se encuentran en:
+https://packagist.org/
+
+// instalamos dependencias
+composer require webonyx/graphql-php
+composer require illuminate/database
+
+composer dump-autoload          <- registramos el namespace
